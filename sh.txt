@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 dklsdjklj
 Fsjdhsjkfd
 Fhjkdsfh
 jfgdsa
+=======
+dklsdjklj
+>>>>>>> 518fe7b (first test commit)
